@@ -1,2 +1,0 @@
-# JumpStart
-Codecademy project
